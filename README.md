@@ -1,5 +1,5 @@
 # The brave little axolotl
-Project developed for university course - Object oriented programming.
+Project developed for university course - Object oriented programming.\
 Catamary damancy type game in underwater setting.
 
 ![image](titlescreen.png)
